@@ -38,7 +38,7 @@ body a:focus {
 }
 /*-- banner --*/ 
 .w3ls-banner{ 
-	background:url(../images/bg3.jpeg)no-repeat right 10px;
+	background:url(../images/bg3.png)no-repeat right 10px;
 	-webkit-background-size:cover;
 	-moz-background-size:cover; 
 	background-size:cover;
